@@ -11,8 +11,6 @@ public class App {
             texto_estudiante_activo="Estudiante activo";
         }else{
             texto_estudiante_activo="Estudiante no activo";
-            texto_estudiante_activo="Estudiante no activo";
-            texto_estudiante_activo="Estudiante no activo";
         }
         System.out.println(texto_estudiante_activo+"\n\n"+"Mi nombre es: "+nombre_estudiante+"\n"+"Mi edad es: "+edad+"\n"+"Peso: "+peso);
     }
