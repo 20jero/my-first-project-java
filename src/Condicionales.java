@@ -7,5 +7,12 @@ public class Condicionales {
         }else{
             System.out.println(numero2+" es mayor que "+numero1);
         }
+    
+        if(numero1 % 2==0){
+        System.out.println("Numero par");
+        }else{
+        System.out.println("Numero impar");
+        }
     }
 }
+//condicional para verificar numero par
